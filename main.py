@@ -1,1 +1,1 @@
-print("welcome to studentmanagement")
+print("welcome everyone")
